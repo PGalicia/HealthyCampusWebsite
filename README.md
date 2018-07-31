@@ -1,4 +1,9 @@
 # Healthy Campus Initiative
+
+<p align="center">
+  <img width="750" src="img/_github_readme/home.png">
+</p>
+
 A website created for University of California, Irvine that serves as hub for all the health-related resources available for both faculty and staff.
 
 ## How It Works
