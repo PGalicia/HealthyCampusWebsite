@@ -28,7 +28,7 @@ Each page is consist of the following:
 - **Student Resource Links**: Links that are useful for students
 - **Faculty Resource Links**: Links that are useful for faculty
 
-__Note: There are overlapping resources, meaning that both staff and student contain both links.__
+_Note: There are overlapping resources, meaning that both staff and student contain both links._
 
 
 ### Resource Modal
