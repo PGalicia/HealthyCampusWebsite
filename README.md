@@ -24,7 +24,9 @@ All health related campus resources are categorized into five working groups.
 - Sexual Health
 - Nutrition
 
-[Insert sub page here]
+<p align="center">
+  <img width="750" src="img/_github_readme/category.png">
+</p>
 
 Each page is consist of the following:
 
@@ -38,7 +40,9 @@ _Note: There are overlapping resources, meaning that both staff and student cont
 
 ### Resource Modal
 
-[Insert Modal here]
+<p align="center">
+  <img width="750" src="img/_github_readme/modal.png">
+</p>
 
 When users press a link, a modal will pop, like the one above, that display relevant information such as contact information and location, of the resource.
 
